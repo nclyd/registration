@@ -1,0 +1,10 @@
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\Nathan\Desktop\projects for skoo\Registration\Registration\obj\Debug\Registration.pdb
